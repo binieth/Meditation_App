@@ -51,12 +51,12 @@ video{
 
 .time-select button, .sound-picker button{
 color: white;
-width: 30%;
-height: 10%;
+width: 20%;
+height: 8%;
 background: none;
-border: 2px solid white;
+border: 1px solid white;
 cursor: pointer;
-border-radius: 5px;
+border-radius: 25px;
 font-size: 20px;
 
 }
@@ -73,10 +73,10 @@ font-size: 20px;
 }
 
 .sound-picker button:nth-child(1) {
-    background: #4972a1;
+    background: #7cb8ca;
 }
 .sound-picker button:nth-child(2) {
-    background: #a14f49;
+    background: #5aade4;
 }
 .sound-picker button img {
     height: 100%;
